@@ -1,3 +1,5 @@
+<img src="https://github.com/NecroVanZ/ProfBanner/blob/main/Github%20Banner%20Ivan.gif?raw=true" height="550" width="100%">
+
 # 💫 About Me:
 👋 Hi there! I'm Ivan Rave Pevida, a passionate Front-End Web Developer with a knack for creating beautiful and responsive web applications. My journey in web development began with a curiosity for how websites are built and has evolved into a full-fledged career focused on crafting user-friendly experiences.
 
