@@ -9,7 +9,6 @@ I'm a passionate **Front-End Web Developer** dedicated to crafting beautiful and
 ## 🌐 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/navi.villarojo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white) ](https://instagram.com/ivan.pevida) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanrave.pevida123@gmail.com)
 
-
 ## 🚀 Tech Skills
 
 ### 💻 Programming & Web Development
